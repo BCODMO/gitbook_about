@@ -26,6 +26,8 @@ BCO-DMO Staff work collaboratively with submitters to process and share their pr
 
 ## Data Managers
 
+We also call upon part-time data managers who have specific domain expertise.
+
 [**Dana Gerlach**](https://www.whoi.edu/profile/dgerlach/) (Marine Chemistry and Geochemistry Department, WHOI)
 
 [dgerlach@whoi.edu](https://emailto:dgerlach@whoi.edu)
@@ -60,15 +62,15 @@ BCO-DMO Staff work collaboratively with submitters to process and share their pr
 
 [snewman@whoi.edu](https://emailto:snewman@whoi.edu)
 
-We also call upon part-time data managers who have specific domain expertise.
-
 [**Audrey Mickle**](https://www.whoi.edu/profile/amickle) (Marine Chemistry and Geochemistry Department, WHOI)
 
 [amickle@whoi.edu](https://emailto:amickle@whoi.edu)&#x20;
 
+
+
 ## Web Site Manager & Application Programmers
 
-**Adam Sheperd** (Marine Chemistry and Geochemistry Department, WHOI) (co-PI, Technical Director)
+**Adam Sheperd** (Marine Chemistry and Geochemistry Department, WHOI) (PI, Technical Director)
 
 [webmaster@whoi.edu](https://emailto:webmaster@whoi.edu)
 
@@ -78,11 +80,13 @@ We also call upon part-time data managers who have specific domain expertise.
 
 [shravani.nagala@whoi.edu](https://emailto:shravani.nagala@whoi.edu)
 
-_Contractors:_
+**Vimal Narapalepu** (BCO-DMO)
 
-**Vimal Narapalepu**
+[**vimal.narepalepu@whoi.edu**](mailto:vimal.narepalepu@whoi.edu)
 
-**Conrad Schloer**
+**Conrad Schloer** (BCO-DMO)
+
+[**cschloer@whoi.edu**](mailto:cschloer@whoi.edu)
 
 ## Strategic Planning Committee
 
