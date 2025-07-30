@@ -1,6 +1,6 @@
 # Meet the Team
 
-**Updated:** 2024.11.22 by S.Rauch. (Content on this page now matches what's currently at [https://demo.bco-dmo.org/team](https://demo.bco-dmo.org/team))
+**Updated:** 2025.07.30 by D. Kinkade. (Content on this page now matches what's currently at [https://www.bco-dmo.org/team](https://www.bco-dmo.org/team))
 
 
 
@@ -12,17 +12,13 @@ BCO-DMO Staff work collaboratively with submitters to process and share their pr
 
 ## Principal Investigators
 
-**Mak Saito** (Marine Chemistry and Geochemistry Department, WHOI) (Lead PI)
-
-**Peter Wiebe** (Biology Department, WHOI) (Co-PI)
-
-[**Danie Kinkade**](https://www2.whoi.edu/staff/dkinkade/) (Biology Department, WHOI) (co-PI, Director)
+[**Danie Kinkade**](https://www2.whoi.edu/staff/dkinkade/) (Biology Department, WHOI) (PI, Director)
 
 [dkinkade@whoi.edu](https://emailto:dkinkade@whoi.edu)
 
 1-508-289-2291
 
-**Adam Sheperd** (Marine Chemistry and Geochemistry Department, WHOI) (co-PI, Technical Director)
+**Adam Sheperd** (Marine Chemistry and Geochemistry Department, WHOI) (PI, Technical Director)
 
 [ashepherd@whoi.edu](https://emailto:ashepherd@whoi.edu)
 
@@ -66,9 +62,9 @@ BCO-DMO Staff work collaboratively with submitters to process and share their pr
 
 We also call upon part-time data managers who have specific domain expertise.
 
-[**Taylor Heyl**](https://www.whoi.edu/profile/theyl/) (Biology Department, WHOI)
+[**Audrey Mickle**](https://www.whoi.edu/profile/amickle) (Marine Chemistry and Geochemistry Department, WHOI)
 
-[they@whoi.edu](https://emailto:they@whoi.edu)
+[amickle@whoi.edu](https://emailto:amickle@whoi.edu)&#x20;
 
 ## Web Site Manager & Application Programmers
 
@@ -100,6 +96,16 @@ We also call upon part-time data managers who have specific domain expertise.
 
 ## Former Staff
 
+Peter Wiebe: Former Lead PI
+
+Cyndy Chandler: Former Co-PI
+
+David Glover: Former Co-PI
+
+Bob Groman: Former Co-PI
+
+Mak Saito: Former Co-PI
+
 Nancy Copley: Former Data Manager
 
 Steve Gegg: Former Data Manager
@@ -114,11 +120,9 @@ Mathew Biddle: Former Data Manager
 
 Tina Haskins: Former Data Manager
 
-Cyndy Chandler: Former Co-PI
+Taylor Heyl: Former Data Manager
 
-David Glover: Former Co-PI
-
-Bob Groman: Former Co-PI
+Lynne Merchant: Former Data Manager
 
 Warren Sass: Former Data Manager and Software Developer
 
