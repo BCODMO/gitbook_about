@@ -78,6 +78,12 @@ We also call upon part-time data managers who have specific domain expertise.
 
 [shravani.nagala@whoi.edu](https://emailto:shravani.nagala@whoi.edu)
 
+_Contractors:_
+
+**Vimal Narapalepu**
+
+**Conrad Schloer**
+
 ## Strategic Planning Committee
 
 **Ben Twining** (Bigelow Labs)
