@@ -6,16 +6,17 @@ This website is the property of the Biological and Chemical Oceanography Data Ma
 
 **Terms and Conditions for Website Use and Data Submission and Reuse:**
 
-By using this Website you are agreeing to be bound by these Terms and Conditions. [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)\
+By using this Website you are agreeing to be bound by these Terms and Conditions. [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)<br>
 
-
-All datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) unless specified otherwise. Per the CC BY 4 license it is understood that any use of the data set will properly acknowledge the PI.
+All datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) unless specified otherwis&#x65;**\***. Per the CC BY 4 license it is understood that any use of the data set will properly acknowledge the PI.
 
 BCO-DMO recommends that you contact the original principal investigator (PI) should you require additional information about the data beyond what is available on this site. In the event that the data originator is not available, please contact BCO-DMO ([info@bco-dmo.org](mailto:info@bco-dmo.org)) for guidance.&#x20;
 
 By submitting data, metadata, and any other content to BCO-DMO, submitters warrant that they own the rights to the content and are authorized to do so under original copyright. Items in BCO-DMO are protected under original copyright with all rights reserved, where applicable (e.g., documents such as related publications, cruise reports, manuals, etc.). \*Data themselves are not copyrightable (see 17 U.S.C. Sec. 102).
 
 By submitting data and information, the submitter grants BCO-DMO the rights needed to copy, store, redistribute, and share data, metadata, and any other content. By validating and making their data publicly available, submitters grant BCO-DMO and any other users the right to reuse their data according to the terms of the CC BY 4 license.
+
+**\***&#x54;here may be instances where synthesized data are submitted to BCO-DMO with previously existing (and in some cases more restrictive) licensing. In these circumstances, BCO-DMO retains the existing licensing of the originating data during publication.
 
 ### Warranty&#x20;
 
